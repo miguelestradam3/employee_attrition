@@ -141,16 +141,6 @@ These metrics provide a comprehensive assessment of each model's ability to pred
 
 ## 🚀 Getting Started
 
-### Clone the repository
-
-```bash
-git clone https://github.com/yourusername/employee-attrition-prediction.git
-
-cd employee-attrition-prediction
-```
-
----
-
 ### Install dependencies
 
 ```bash
