@@ -143,11 +143,7 @@ These metrics provide a comprehensive assessment of each model's ability to pred
 
 ### Install dependencies
 
-```bash
-pip install -r requirements.txt
-```
-
-Or install them manually:
+Install them manually:
 
 ```bash
 pip install pandas numpy matplotlib seaborn scikit-learn xgboost imbalanced-learn jupyterthemes
